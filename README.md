@@ -9,8 +9,7 @@ Can be found on telegram as GroupManager.
 
 Alternatively, find me on telegram! (Keep all support questions in the support chat, where more people can help you.)
 
-You can also join our support group here!
-
+You can also join our support group [here](https://t.me/Suzune_Support)
 [![DEPLOY](https://telegra.ph/file/82bb2b374c9e35da0f9c2.jpg)](https://heroku.com/deploy?template=https://github.com/desinobita/Suzunerobot)
 
 ## Bot
