@@ -1,5 +1,5 @@
 {
-      "name": "PglRobot",
+      "name": "SuzuneRobot",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -8,7 +8,7 @@
          "manager",
          "PglRobot"
       ],   
-   "repository": "https://github.com/iisgaurav/PglRobot",
+   "repository": "https://github.com/desinobita/suzunerobot",
    "addons": [
       {
          "options": {
@@ -41,16 +41,16 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1100735944"
+         "value": "2037383054"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "iisgaurav"
+         "value": "DesiNobita"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: PglRobot. If this ever points to PglRobot support than consider you made an enemy.",
          "required": true,
-         "value": "AuraXSupport"
+         "value": "Suzune_Support"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
@@ -75,7 +75,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother PglRobot support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "1100735944 1520742003 1619057027 1719433002"
+         "value": "2037383054"
       },
       "sw_api": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
@@ -89,12 +89,12 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users. After existing Id add yours. ",
          "required": false,
-         "value": "1100735944 1520742003 1619057027 1719433002"
+         "value": "2037383054"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "1100735944 1520742003 1619057027 1719433002"
+         "value": "2037383054"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
@@ -142,7 +142,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://www.paypal.me/gauravv03"
+         "value": "No Thanks Me Rich"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
