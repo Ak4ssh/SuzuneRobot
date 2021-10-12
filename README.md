@@ -11,7 +11,7 @@ Alternatively, find me on telegram! (Keep all support questions in the support 
 
 You can also join our support group here!
 
-[![https://telegra.ph/file/82bb2b374c9e35da0f9c2.jpg](https://heroku.com/deploy?template=https://github.com/desinobita/suzunerobot)
+[https://telegra.ph/file/82bb2b374c9e35da0f9c2.jpg](https://heroku.com/deploy?template=https://github.com/desinobita/suzunerobot)
 
 ## Bot
 Available On Telegram As [𝐒ᴜᴢᴜɴᴇ 𝐇ᴏʀɪᴋɪᴛᴀ](t.me/Suzune_Superbot)
