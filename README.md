@@ -12,7 +12,7 @@ Alternatively, find me on telegram! (Keep all support questions in the support 
 You can also join our support group [here](https://t.me/Suzune_Support)
 
 DEPLOY TO HEROKU HERE
-[![DEPLOY](https://telegra.ph/file/82bb2b374c9e35da0f9c2.jpg)](https://heroku.com/deploy?template=https://github.com/desinobita/Suzunerobot)
+[![DEPLOY](https://heroku.com/deploy?template=https://github.com/desinobita/Suzunerobot)
 
 ## Bot
 Available On Telegram As [𝐒ᴜᴢᴜɴᴇ 𝐇ᴏʀɪᴋɪᴛᴀ](https://t.me/Suzune_Superbot)
