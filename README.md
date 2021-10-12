@@ -1,5 +1,5 @@
 ## Suzune Robot 
-Made And Managed By [Me](t.me/DesiNobita) On Telegram 
+Made And Managed By [Me](https://t.me/DesiNobita) On Telegram 
 
 ## Group Management 
 
@@ -15,10 +15,10 @@ DEPLOY TO HEROKU HERE
 [![DEPLOY](https://telegra.ph/file/82bb2b374c9e35da0f9c2.jpg)](https://heroku.com/deploy?template=https://github.com/desinobita/Suzunerobot)
 
 ## Bot
-Available On Telegram As [𝐒ᴜᴢᴜɴᴇ 𝐇ᴏʀɪᴋɪᴛᴀ](t.me/Suzune_Superbot)
+Available On Telegram As [𝐒ᴜᴢᴜɴᴇ 𝐇ᴏʀɪᴋɪᴛᴀ](https://t.me/Suzune_Superbot)
 
 ## Report Error 
-Report your problem along with your name to [this group](t.me/Suzune_Support)
+Report your problem along with your name to [this group](https://t.me/Suzune_Support)
 
 ## Credits
  
