@@ -11,8 +11,8 @@ Alternatively, find me on telegram! (Keep all support questions in the support 
 
 You can also join our support group [here](https://t.me/Suzune_Support)
 
-DEPLOY TO HEROKU HERE
-[![DEPLOY](https://heroku.com/deploy?template=https://github.com/desinobita/Suzunerobot)
+## Deploy To Heroku
+[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/desinobita/suzunerobot)
 
 ## Bot
 Available On Telegram As [𝐒ᴜᴢᴜɴᴇ 𝐇ᴏʀɪᴋɪᴛᴀ](https://t.me/Suzune_Superbot)
