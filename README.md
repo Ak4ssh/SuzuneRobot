@@ -1,5 +1,5 @@
 ## Suzune Robot 
-Made And Managed By [Me](https://t.me/DesiNobita) On Telegram 
+Made And Managed By [Me](https://t.me/DesiNobita) On Telegram [.](https://telegra.ph/file/3a28520cb98181779349f.mp4)
 
 ## Group Management 
 
