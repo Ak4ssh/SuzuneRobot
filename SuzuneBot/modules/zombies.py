@@ -55,7 +55,7 @@ async def zombies(event):
 
     con = event.pattern_match.group(1).lower()
     del_u = 0
-    del_status = "No Deleted Accounts Found, Group Is Clean."
+    del_status = "No Fucked Accounts Found, Group Is Clean."
 
     if con != "clean":
         find_zombies = await event.respond("Searching For Zombies...")
@@ -84,7 +84,7 @@ async def zombies(event):
         await event.respond("I Am Not An Admin Here!")
         return
 
-    cleaning_zombies = await event.respond("Cleaning Zombies...")
+    cleaning_zombies = await event.respond("Cleaning Fucking Zombies...")
     del_u = 0
     del_a = 0
 
@@ -133,7 +133,7 @@ async def _(event):
         return
     c = 0
     KICK_RIGHTS = ChatBannedRights(until_date=None, view_messages=True)
-    await event.reply("Searching Participant Lists...")
+    await event.reply("Searching Fucking Participant Lists...")
     async for i in event.client.iter_participants(event.chat_id):
 
         if isinstance(i.status, UserStatusLastMonth):
@@ -150,6 +150,6 @@ async def _(event):
             else:
                c = c + 1                    
 
-    required_string = "Successfully Kicked **{}** users"
+    required_string = "Successfully Fucked **{}** users"
     await event.reply(required_string.format(c))
 
