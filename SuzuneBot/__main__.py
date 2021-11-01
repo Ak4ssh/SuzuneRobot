@@ -71,7 +71,7 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-
+#kang with Credit Bitches
 PM_START_TEXT = """
 𝐇𝐞𝐥𝐥𝐨 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐡𝐢𝐬 𝐢𝐬 𝐬𝐮𝐳𝐮𝐧𝐞 𝐭𝐡𝐢𝐬 𝐬𝐢𝐝𝐞. 𝐀𝐬 𝐲𝐨𝐮 𝐤𝐧𝐨𝐰 𝐭𝐡𝐚𝐭 𝐦𝐲 𝐝𝐫𝐞𝐚𝐦 𝐢𝐬 𝐭𝐨 𝐛𝐞 𝐢𝐧 𝐜𝐥𝐚𝐬𝐬 𝐀 𝐬𝐨 𝐢𝐧 𝐭𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐜𝐥𝐚𝐬𝐬 𝐀 𝐢𝐬 𝐭𝐨 𝐛𝐞 𝐭𝐡𝐞 𝐛𝐞𝐬𝐭 𝐛𝐨𝐭.
 
