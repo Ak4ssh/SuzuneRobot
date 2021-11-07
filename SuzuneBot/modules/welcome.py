@@ -191,20 +191,20 @@ def new_member(update: Update, context: CallbackContext):
 
             if new_mem.id == OWNER_ID:
                 update.effective_message.reply_text(
-                    " ©AuraXNetwork Owner just joined the group",
+                    " Suzune Horikita Owner just joined the group",
                     reply_to_message_id=reply,
                 )
                 welcome_log = (
                     f"{html.escape(chat.title)}\n"
                     f"#USER_JOINED\n"
-                    f"©AuraXNetwork Owner just joined the group"
+                    f"▪︎Suzune Horikita▪︎ Owner just joined the group"
                 )
                 continue
 
             # Welcome Devs
             elif new_mem.id in DEV_USERS:
                 update.effective_message.reply_text(
-                    " Be cool! A member of the ©AuraXNetwork just joined.",
+                    " Be cool! A member of the ▪︎Suzune Team▪︎ just joined.",
                     reply_to_message_id=reply,
                 )
                 welcome_log = (
