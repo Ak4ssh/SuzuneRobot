@@ -1,13 +1,13 @@
 ##op vmro 
 import os
 
-from SuzuneBot.modules.sql_extended.night_mode_sql import add_nightmode, rmnightmode, get_all_chat_id, is_nightmode_indb
+from SuzuneRoBot.modules.sql_extended.night_mode_sql import add_nightmode, rmnightmode, get_all_chat_id, is_nightmode_indb
 from telethon.tl.types import ChatBannedRights
 from apscheduler.schedulers.asyncio import AsyncIOScheduler 
 from telethon import functions
-from SuzuneBot.events import register
-from SuzuneBot import OWNER_ID
-from SuzuneBot import telethn as tbot
+from SuzuneRoBot.events import register
+from SuzuneRoBot import OWNER_ID
+from SuzuneRoBot import telethn as tbot
 from telethon import *
 from telethon import Button, custom, events
 
