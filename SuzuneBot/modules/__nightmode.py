@@ -1,3 +1,4 @@
+##op vmro 
 import os
 
 from SuzuneBot.modules.sql_extended.night_mode_sql import add_nightmode, rmnightmode, get_all_chat_id, is_nightmode_indb
