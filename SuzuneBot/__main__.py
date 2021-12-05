@@ -84,7 +84,7 @@ Uptime - {}!
 
 HELP_STRINGS = """
 Hello My name is *{}*.
-Here's The Settings
+Here's The Settings Of This Bot[.](https://telegra.ph/file/3f5b509b1ebf57ecba47d.jpg)
 
 """.format(
     dispatcher.bot.first_name,
@@ -96,8 +96,7 @@ SuzuneBot_IMG = "https://telegra.ph/file/a3868caeaf1b3e55ccc90.jpg"
 SuzuneBotG_IMG = "https://telegra.ph/file/819b0d3b4d55636d19f59.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project by contacting [Gaurav Verma](https://t.me/iisgaurav).
- Using [PayPal](paypal.me/iisgaurav).
+ You can support the project by contacting [Nobita](https://t.me/TheNobita).
  Those who cannot provide monetary support are welcome to help us develop the bot at @VegaCodes.
  """
 
