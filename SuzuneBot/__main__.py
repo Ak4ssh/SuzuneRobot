@@ -73,10 +73,13 @@ def get_readable_time(seconds: int) -> str:
 
 #kang with Credit Bitches
 PM_START_TEXT = """
-𝐇𝐞𝐥𝐥𝐨 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐡𝐢𝐬 𝐢𝐬 𝐬𝐮𝐳𝐮𝐧𝐞 𝐭𝐡𝐢𝐬 𝐬𝐢𝐝𝐞. 𝐀𝐬 𝐲𝐨𝐮 𝐤𝐧𝐨𝐰 𝐭𝐡𝐚𝐭 𝐦𝐲 𝐝𝐫𝐞𝐚𝐦 𝐢𝐬 𝐭𝐨 𝐛𝐞 𝐢𝐧 𝐜𝐥𝐚𝐬𝐬 𝐀 𝐬𝐨 𝐢𝐧 𝐭𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐜𝐥𝐚𝐬𝐬 𝐀 𝐢𝐬 𝐭𝐨 𝐛𝐞 𝐭𝐡𝐞 𝐛𝐞𝐬𝐭 𝐛𝐨𝐭.
-
-𝐏𝐫𝐞𝐬𝐬 /help 𝐓𝐨 𝐒𝐞𝐞 𝐀𝐥𝐥 𝐌𝐲 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐋𝐢𝐬𝐭.
-"""
+* Hello {} ♡︎ !*
+════════════════════════════
+• I'Aᴍ [「𝐒ᴜᴢᴜɴᴇ 𝐇ᴏʀɪᴋɪᴛᴀ」](https://telegra.ph/file/9cd0b9c94262fe74aae07.jpg)
+• 𝕿𝖍𝖊 𝕮𝖑𝖆𝖘𝖘 𝕽𝖔𝖔𝖒 𝕺𝖋 𝕰𝖑𝖎𝖙𝖊
+• *Aᴍ Vᴇʀʏ Fᴀꜱᴛ Aɴᴅ Mᴏʀᴇ Eꜰꜰɪᴄɪᴇɴᴛ | Pʀᴏᴠɪᴅᴇ Aᴡᴇꜱᴏᴍᴇ Fᴇᴀᴛᴜʀᴇꜱ!*
+════════════════════════════
+× *Uᴘᴛɪᴍᴇ:* {}
 G_START_TEXT = """
 Hello Suzune Is Here.
 Uptime - {}!
@@ -233,8 +236,8 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="ᴅᴇᴠs️",
-                                url="https://t.me/SuzuneSuperbot/4",
+                                text="Owner",
+                                url="https://t.me/TheVenomXD",
                             ),
                         ],
                     ]
@@ -618,7 +621,7 @@ def main():
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
             dispatcher.bot.sendMessage(
-                f"@{SUPPORT_CHAT}", "𝐁𝐚𝐜𝐤 𝐀𝐠𝐚𝐢𝐧 𝐓𝐨 𝐌𝐚𝐧𝐚𝐠𝐞 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 💞"
+                f"@{SUPPORT_CHAT}", "Back Online To Server"
             )
         except Unauthorized:
             LOGGER.warning(
