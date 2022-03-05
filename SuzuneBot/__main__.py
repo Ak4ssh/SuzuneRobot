@@ -80,6 +80,8 @@ PM_START_TEXT = """
 • *Aᴍ Vᴇʀʏ Fᴀꜱᴛ Aɴᴅ Mᴏʀᴇ Eꜰꜰɪᴄɪᴇɴᴛ | Pʀᴏᴠɪᴅᴇ Aᴡᴇꜱᴏᴍᴇ Fᴇᴀᴛᴜʀᴇꜱ!*
 ════════════════════════════
 × *Uᴘᴛɪᴍᴇ:* {}
+"""
+
 G_START_TEXT = """
 Hello Suzune Is Here.
 Uptime - {}!
