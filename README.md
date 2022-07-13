@@ -20,9 +20,10 @@ Available On Telegram As [𝐒ᴜᴢᴜɴᴇ 𝐇ᴏʀɪᴋɪᴛᴀ](https://t.m
 ## Report Error 
 Report your problem along with your name to [this group](https://t.me/Suzune_Support)
 
-## Credits
+## [Contributors](https://github.com/desinobita/SuzuneRobot/graphs/contributors)
  
  Nobita
  Axel
  Rizoel
  **Realme**
+ Captain Ezio
