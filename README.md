@@ -22,8 +22,4 @@ Report your problem along with your name to [this group](https://t.me/Suzune_Sup
 
 ## [Contributors](https://github.com/desinobita/SuzuneRobot/graphs/contributors)
  
- Nobita
- Axel
- Rizoel
- **Realme**
- Captain Ezio
+[![Contributors](https://contrib.rocks/image?repo=desinobita/SuzuneRobot)](https://github.com/desinobita/SuzuneRobot/graphs/contributors)
