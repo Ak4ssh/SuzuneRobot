@@ -3,8 +3,11 @@ from telegram import Message
 from telegram.ext import BaseFilter
 
 
-class CustomFilters(object):
-    class _Supporters(BaseFilter):
+class CustomFilters:
+    class _Supporters(MessageFilter):
+        def __init__(self):
+            super().__init__(self.filter)
+            
         def filter(self, message: Message):
             return bool(message.from_user and message.from_user.id in DEMONS)
 
