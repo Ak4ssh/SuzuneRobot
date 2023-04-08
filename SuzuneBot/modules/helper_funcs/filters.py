@@ -1,7 +1,6 @@
 from SuzuneBot import DEV_USERS, DRAGONS, DEMONS
 from telegram import Message
-from telegram.ext import BaseFilter
-
+from telegram.ext import BaseFilter, MessageFilter
 
 class CustomFilters:
     class _Supporters(MessageFilter):
